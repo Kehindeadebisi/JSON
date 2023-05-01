@@ -1,0 +1,52 @@
+{
+    "network": {
+        "interface": {
+            "name": "eth0",
+            "address": "192.136.204.0",
+            "netmask": "255.255.255.0",
+            "gateway": "192.136.204.0"
+        }
+    }
+}
+
+
+
+{
+    "customers": [
+        {
+            "name": "David Mark",
+            "email": "davidmark@gmail.com",
+            "phone": "08099999678",
+            "address": {
+                "city": "Ikeja",
+                "state": "Lagos"
+            }
+        },
+        {
+            "name": "Ada Chukwudi",
+            "email": "ada@gmail.com",
+            "phone": "080896434654",
+            "address": {
+                "city": "Wuse",
+                "state": "Abuja",
+            }
+        }
+    ]
+}
+
+{
+    "cars": [
+      {
+        "make": "Lexus",
+        "model": "RX",
+        "year": 2011,
+        "features": ["Durable Tires", "Mirrors"]
+      },
+      {
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2020,
+        "features": ["Bluetooth", "Shaded Mirror"]
+     
+    }]
+    }
